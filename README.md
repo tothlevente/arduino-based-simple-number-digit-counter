@@ -1,4 +1,4 @@
-# Welcome to the project of Arduino based simple number digit counter! ⏳
+# Welcome to the project of Arduino based simple number digit counter! ⏳🔢
 
 Thank you for your interest about this project!
 
