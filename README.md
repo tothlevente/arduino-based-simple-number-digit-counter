@@ -1,6 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# ⏳ Welcome to the project of Arduino based simple number digit counter!
+# Welcome to the project of Arduino based simple number digit counter!
 
 Thank you for your interest about this project!
 
